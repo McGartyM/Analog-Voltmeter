@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 74LV4052PW_118)(type Legacy)(uri ${KIPRJMOD}/Imports/library/74LV4052PW_118.lib)(options "")(descr ""))
+  (lib (name 74LVC1G53DP_125)(type Legacy)(uri ${KIPRJMOD}/Imports/library/74LVC1G53DP_125.lib)(options "")(descr ""))
+  (lib (name MCP6044)(type Legacy)(uri ${KIPRJMOD}/Imports/library/MCP6044.lib)(options "")(descr ""))
+)
